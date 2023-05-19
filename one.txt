@@ -2,4 +2,5 @@
 hello, My name is venu chanapathi.
 I am from Eluru.
 Hello, My age is 25.
-
+I completed my UG in year 2019.
+Later joined TCS HYD as DevOps Engineer.
