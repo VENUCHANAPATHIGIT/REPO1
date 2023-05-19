@@ -5,3 +5,5 @@ Hello, My age is 25.
 I completed my UG in year 2019.
 Later joined TCS HYD as DevOps Engineer.
 Now i currently hold 3 years of experience in IT(DevOps & Azure Cloud).
+I completed B.Tech from AU Vizag.
+
